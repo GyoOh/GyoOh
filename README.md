@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C#, PHP, Typescript**
 
+- 💬 Ask me about **Javascript, Typescript, React, Next, C#, HTML, CSS, MySQL, PostgresSQL, Firebase, express, Node, PHP, Clean Architecture**
+
 - 👨‍💻 All of my projects are available at [https://gwanggyooh.vercel.app/](https://gwanggyooh.vercel.app/)
 
 - 📫 How to reach me **gwanggyooh@gmail.com**
