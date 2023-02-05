@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, HTML, CSS, MySQL, postgresSQL, C#, Typescript, express, React, Next, Node, PHP, Clean Architecture**
 
-- ⚡ Fun fact **I can't stop talking when it comes to Software architecture and Emerging technologies**
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GyoOh&show_icons=true&locale=en&layout=compact" alt="GyoOh" /></p>
 
