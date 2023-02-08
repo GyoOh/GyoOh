@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://gwanggyooh.vercel.app/](https://gwanggyooh.vercel.app/)
 
+- 🔥 Come to see [My Dev Note](https://gyooh.github.io/)
+
 - 📫 How to reach me **gwanggyooh@gmail.com**
 ---
  **Dream Catcher**<br> is a web application that lets you share your restaurant experiences and opinions with others. You can create a personal profile, post about your favorite restaurants, and view other users' experiences and opinions. The app's map feature helps you find restaurants and get more information about them. DreamCatcher was developed using EJS, CSS, Express, MySQL, Bootstrap, Google Map API, and Yelp API. For more details, click below.<br>[https://github.com/GyoOh/dreamcatcher](https://github.com/GyoOh/dreamcatcher)<br>
