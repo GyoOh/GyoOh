@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, Typescript, React, Next, C#, HTML, CSS, MySQL, PostgresSQL, Firebase, express, Node, PHP, Clean Architecture**
 
-- 👨‍💻 All of my projects are available at [https://gwanggyooh.vercel.app/](https://gwanggyooh.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://gwanggyooh.vercel.app/](https://gwanggyooh.com)
 
 - 🔥 Come to see [My Dev Note](https://gyooh.github.io/)
 
