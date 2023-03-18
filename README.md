@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, PHP, Typescript**
 
-- 💬 Ask me about **Javascript, Typescript, React, Next, C#, HTML, CSS, MySQL, PostgresSQL, Firebase, express, Node, PHP, Clean Architecture**
+- 💬 Ask me about **Javascript, Typescript, React, Next, C#, HTML, CSS, MySQL, PostgresSQL, Firebase, express, Node, PHP**
 
 - 👨‍💻 All of my projects are available at [https://gwanggyooh.com](https://gwanggyooh.com)
 
