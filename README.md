@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gwanggyo Oh</h1>
 <h3 align="center">An aspiring full stack developer in Vancouver</h3>
 
-- 🔭 I’m currently enrolled at BCIT
+- 🔭 I’m currently enrolled at **BCIT**
 
 - 🌱 I’m currently learning **C#, PHP, Typescript**
 
