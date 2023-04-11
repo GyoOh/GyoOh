@@ -26,12 +26,7 @@
   <br> **Chat App**<br> developed a chat application using C# and React TS that allows multiple users to engage in live chat conversations. The app allows users to create channels, similar to Discord, for communication with others who are not in the same chat room. This feature allows for seamless and efficient communication between users across different channels. The chat application was built using C# models and controllers, which enable users to communicate using usernames. With the help of C# and React TS, the app is highly responsive and user-friendly, providing an enjoyable experience for all users. The resulting chat app is an efficient and secure way for users to engage in live chat conversations with multiple individuals, ensuring that communication is seamless and effortless.
  <br>Github: [https://github.com/GyoOh/chatapp-cshap](https://github.com/GyoOh/chatapp-cshap)
  <br>Demo: [https://chatapp-cshap-production.up.railway.app](https://chatapp-cshap-production.up.railway.app)<br>
-  
  
-
- 
- 
-
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
