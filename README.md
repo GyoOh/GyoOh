@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gwanggyo Oh</h1>
 <h3 align="center">An aspiring full stack developer in Vancouver</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GyoOh&label=Profile%20views&color=0e75b6&style=flat" alt="GyoOh" /> </p>
+
 - 🔭 I’m currently enrolled at **BCIT**
 
 - 🌱 I’m currently learning **C#, PHP, Typescript**
