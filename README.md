@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gwanggyooh@gmail.com**
 ---
-**Safe House**<br> is created to support evacuees affected by wildfires in British Columbia. In case of sudden wildfire impact, the app can connect you with volunteers who offer a safe place to stay. The Safe House was developed using Next.js, Tailwind, Firebase, Storybook, Google Map API, and more. For further information, click the link below.
+  **Safe House**<br> is created to support evacuees affected by wildfires in British Columbia. In case of sudden wildfire impact, the app can connect you with volunteers who offer a safe place to stay. The Safe House was developed using Next.js, Tailwind, Firebase, Storybook, Google Map API, and more. For further information, click the link below.
  <br>Github:[https://github.com/GyoOh/dreamcatcher](https://github.com/GyoOh/safehouse)
  <br>Demo:[https://www.safehouseapp.ca](https://www.safehouseapp.ca)<br>
  <br>**Coughie App**<br> is a mobile-first web application designed to help people who want to quit their vaping habit. Users can input, track their progress, join a community, while growing their virtual plant 🌱.
