@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently enrolled at **BCIT**
 
-- 🌱 I’m currently learning **C#, PHP, Typescript**
+- 🌱 I’m currently learning **C#,Typescript**
 
 - 💬 Ask me about **Javascript, Typescript, React, Next, C#, HTML, CSS, MySQL, PostgresSQL, CockroachDB, Firebase, express, Node, PHP, AWS Lambda, AWS Gateway**
 
