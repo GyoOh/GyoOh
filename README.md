@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GyoOh&label=Profile%20views&color=0e75b6&style=flat" alt="GyoOh" /> </p>
 
-- 🔭 I’m currently enrolled at **BCIT**
+- 🔭 Graduated from **BCIT** in April 2023 
 
 - 🌱 I’m currently learning **C#,Typescript**
 
