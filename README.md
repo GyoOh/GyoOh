@@ -5,7 +5,7 @@
 
 - 🔭 Graduated from **BCIT** in April 2023 
 
-- 🌱 I’m currently learning **C#,Typescript**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript, Typescript, React, Next, C#, HTML, CSS, MySQL, PostgresSQL, CockroachDB, Firebase, express, Node, PHP, AWS Lambda, AWS Gateway**
 
