@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://gwanggyooh.com](https://gwanggyooh.com)
 
-- 🔥 Come to see [My Dev Note](https://gyooh.github.io/)
-
 - 📫 How to reach me **gwanggyooh@gmail.com**
 ---
   **Safe House**<br> is created to support evacuees affected by wildfires in British Columbia. In case of sudden wildfire impact, the app can connect you with volunteers who offer a safe place to stay. The Safe House was developed using Next.js, Tailwind, Firebase, Storybook, Google Map API, and more. For further information, click the link below.
