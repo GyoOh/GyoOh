@@ -5,8 +5,6 @@
 
 - 🔭 Graduated from **BCIT** in April 2023 
 
-- 🌱 I’m currently learning **Typescript**
-
 - 💬 Ask me about **Javascript, Typescript, React, Next, C#, HTML, CSS, MySQL, PostgresSQL, CockroachDB, Firebase, express, Node, PHP, AWS Lambda, AWS Gateway**
 
 - 👨‍💻 All of my projects are available at [https://gwanggyooh.com](https://gwanggyooh.com)
