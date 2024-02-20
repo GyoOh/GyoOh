@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gwanggyooh@gmail.com**
 ---
-**Trinity Salon & Spa**<br> is a web application designed for a salon and spa business. This responsive, multi-language website was developed using Next.js, Tailwind CSS, the Framer library, EmailJS, and the Google Maps API. It was specifically built for a client.
+** Trinity Salon & Spa**<br> is a web application designed for a salon and spa business. This responsive, multi-language website was developed using Next.js, Tailwind CSS, the Framer library, EmailJS, and the Google Maps API. It was specifically built for a client.
  <br>Demo:[https://www.trinityspa.ca/](https://www.trinityspa.ca/)<br>
  **AI Counselor**<br> is a web application that provides a safe space for people to talk about their problems. It uses OpenAI API to generate summary, analysis, and feedback to users inputs. It also uses Unsplash API to generate relevant images to make the chat more interesting. This app is developed using React.js, CSS, Open AI API.
  <br>Github:[https://github.com/GyoOh/emotion-diary](https://github.com/GyoOh/emotion-diary))
