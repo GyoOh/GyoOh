@@ -15,6 +15,8 @@
  **AI Counselor**<br> is a web application that provides a safe space for people to talk about their problems. It uses OpenAI API to generate summary, analysis, and feedback to users inputs. It also uses Unsplash API to generate relevant images to make the chat more interesting. This app is developed using React.js, CSS, Open AI API.
  <br>Github:[https://github.com/GyoOh/emotion-diary](https://github.com/GyoOh/emotion-diary))
  <br>Demo:[https://gyo-diary-memoir.up.railway.app/](https://gyo-diary-memoir.up.railway.app/)<br>
+ **Chickadee**<br> This project is IDSP project with 2 other developers. Chickadee is a web application that manage properties for companies. In this app tenants can submit maintenance requests, pay rent, and view their lease. Landlords can manage their properties, tenants, and maintenance requests. Admins can manage all users and properties. Also, they can have a chat with each other. Also, we built notification system for tenants and landlords. We used React.js, C#(Asp.NET Core), SignalR, Azure Blob, Bootstrap, SQLServer, Docker.
+ <br>Demo:[https://www.gwanggyooh.com/chickadee](https://www.gwanggyooh.com/chickadee)<br>
   **Safe House**<br> is created to support evacuees affected by wildfires in British Columbia. In case of sudden wildfire impact, the app can connect you with volunteers who offer a safe place to stay. The Safe House was developed using Next.js, Tailwind, Firebase, Storybook, Google Map API, and more. For further information, click the link below.
  <br>Github:[https://github.com/GyoOh/safehouse](https://github.com/GyoOh/safehouse)
  <br>Demo:[https://safehouseapp.vercel.app](https://safehouseapp.vercel.app)<br>
