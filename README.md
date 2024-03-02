@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gwanggyooh.com](https://gwanggyooh.com)
 
-- 📫 How to reach me **gwanggyooh@gmail.com**
+- 📫 How to reach me **gwanggyooh@gmail.com**<br>
 
 <br>**Trinity Salon & Spa**<br> is a web application designed for a salon and spa business. This responsive, multi-language website was developed using Next.js, Tailwind CSS, the Framer library, EmailJS, and the Google Maps API. It was specifically built for a client.
  <br>Demo:[https://www.trinityspa.ca/](https://www.trinityspa.ca/)<br>
